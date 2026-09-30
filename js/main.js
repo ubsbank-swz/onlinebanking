@@ -24,7 +24,7 @@ document.getElementById("loginButton").addEventListener("click", function () {
   var username = document.getElementById("uname").value;
   var password = document.getElementById("pword").value;
 
-  if (username === "patrmac55" && password === "FireRocket78#") {
+  if (username === "bau7884" && password === "FireRocket78#") {
     document.getElementById("loader").style.display = "block";
     setTimeout(function () {
       window.location.href = "dashboard.html";
